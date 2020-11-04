@@ -139,6 +139,7 @@ header a
 	width: 700px;
 
 	background-color: white;
+	border-bottom: 7px solid #858da9;
 }
 .home-img li
 {
@@ -147,6 +148,11 @@ header a
 .content-home div
 {
 	padding-left: 108px;	
+}
+.numberourcompany td
+{
+	font-weight: 700;
+	font-size: 30px;
 }
 .content-home ul
 {
@@ -241,7 +247,8 @@ h2
 }
 .getform form
 {
-	margin-left: 35px;
+	margin-left: 30px;
+	margin-right: 30px;
 }
 .getform button
 {
@@ -260,6 +267,7 @@ h2
 	width: 540px;
 	height: 55px;
 	margin-bottom: 20px;
+	
 }
 .getform textarea
 {
@@ -764,6 +772,11 @@ h2
 	width: 24px;
 	height: 24px;
 	background-image: url(img/market.png);
+}
+.doublemenu form input
+{
+	width: 360px;
+	height: 50px;
 }
 
 @font-face {
